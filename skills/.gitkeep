@@ -1,0 +1,7 @@
+# Placeholder
+
+This directory will host curated synthesized skill submissions.
+Each skill lives at skills/<skill-name>/SKILL.md per Anthropic Agent Skills 2.0 schema.
+
+The first skills will land via PRs once the maxvision plugin v0.1.1 ships the
+contribution pipeline.

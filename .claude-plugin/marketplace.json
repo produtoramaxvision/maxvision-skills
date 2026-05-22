@@ -1,0 +1,35 @@
+{
+  "name": "maxvision-skills",
+  "version": "0.0.1",
+  "metadata": {
+    "description": "MaxVision marketplace hosting the maxvision-skills curated catalog of community-contributed synthesized skills."
+  },
+  "owner": {
+    "name": "Produtora MaxVision",
+    "url": "https://github.com/produtoramaxvision"
+  },
+  "plugins": [
+    {
+      "name": "maxvision-skills",
+      "source": "./",
+      "description": "Curated synthesized skills contributed by maxvision plugin users; reviewed and merged by maintainers.",
+      "version": "0.0.1",
+      "author": {
+        "name": "Produtora MaxVision",
+        "url": "https://github.com/produtoramaxvision"
+      },
+      "homepage": "https://github.com/produtoramaxvision/maxvision-skills",
+      "repository": "https://github.com/produtoramaxvision/maxvision-skills",
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "skills",
+        "curated",
+        "synthesized",
+        "maxvision",
+        "community"
+      ],
+      "category": "skills"
+    }
+  ]
+}

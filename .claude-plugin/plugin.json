@@ -1,0 +1,20 @@
+{
+  "name": "maxvision-skills",
+  "version": "0.0.1",
+  "description": "Curated catalog of community-contributed synthesized skills from the maxvision orchestrator. Skills emerge from real-world combinations of upstream agents and skills, reviewed and merged by maintainers.",
+  "author": {
+    "name": "Produtora MaxVision",
+    "url": "https://github.com/produtoramaxvision"
+  },
+  "homepage": "https://github.com/produtoramaxvision/maxvision-skills",
+  "repository": "https://github.com/produtoramaxvision/maxvision-skills",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "skills",
+    "curated",
+    "synthesized",
+    "maxvision",
+    "community"
+  ]
+}
